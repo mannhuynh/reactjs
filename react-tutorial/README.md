@@ -1,27 +1,22 @@
 # This React app follows Tarnia's Tutorial:
+
 https://www.taniarascia.com/getting-started-with-react/
 
-
 ## Deployment to Github:
-- Add to package.json:
-    `"homepage": "https://taniarascia.github.io/react-tutorial",`
 
-    `"scripts": {
-    // ...
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
-    }`
+-   Add to package.json:
+    `"homepage": "https://mannhuynh.github.io/react-tutorial",`
 
-- Run:
+    `"scripts": { // ... "predeploy": "npm run build", "deploy": "gh-pages -d build" }`
+
+-   Run:
     `npm install --save-dev gh-pages`
     `npm run build`
     `npm run deploy`
 
+## Demo:
 
-
-
-
-
+https://mannhuynh.github.io/react-tutorial/
 
 # Getting Started with Create React App
 
